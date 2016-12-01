@@ -19,11 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"测试1");
-    
-    
-    NSLog(@"宓");
-    
-    NSLog(@"珂");
+
 }
 
 
